@@ -20,7 +20,7 @@ const Hero = () => {
         transition={{duration: 0.8, delay:0.2}}
        className="flex max-w-[600px] flex-col items-center justify-center gap-3 text-center">
         <h1 className="bg-gradient-to-r from-blue-500 to-pink-500 bg-clip-text text-transparent text-5xl font-light md:text-7xl">Daramola Ogomide</h1>
-        <h3 className="bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent text-2xl md:text-3xl">Frontend Engineer</h3>
+        <h3 className="bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent text-2xl md:text-3xl">Machine Learning Engineer</h3>
         <p className='md:text-base text-pretty text-sm text-gray-400'>Experienced Machine Learning Engineer with a strong foundation in designing and deploying data-driven solutions. Proficient in various programming languages, LLM models including Python and TypeScript, along with frameworks like TensorFlow, PyTorch, and Angular, to develop scalable applications.</p>
        
       </motion.div>
